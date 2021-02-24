@@ -10,7 +10,7 @@ Open your favourite terminal emulator, and then:
 
 #### 1. Clone the repo
 ```bash
-git clone https://github.com/cloudacademy/data-wrangling-with-pandas.git
+git clone https://github.com/cloudacademy/data-visualization-with-python-using-matplotlib.git
 ```
 #### 2. Create a python virtualenv
 ```bash
